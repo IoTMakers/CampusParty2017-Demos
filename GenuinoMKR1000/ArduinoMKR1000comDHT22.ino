@@ -11,7 +11,6 @@ Atualizado por Douglas Esteves para Campus Party 2017, mudando para um Arduino M
 */
 
 #include <WiFi101.h>
-//Include da lib do sensor DHT11 e DHT22
 #include "DHT.h"
 
 #define DHT_DATA_PIN 5
